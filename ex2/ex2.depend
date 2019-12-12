@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576185206 source:c:\users\infogenies\desktop\iset-robot\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+
